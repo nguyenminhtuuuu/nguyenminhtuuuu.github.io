@@ -1,10 +1,7 @@
 # NGUYEN MINH TU
 **Data Analyst**
 
- *Ho Chi Minh City* | [tunm081205@gmail.com](mailto:tunm081205@gmail.com) |  [GitHub](https://github.com/nguyenminhtuuuu)
- 
-## [Portfolio] (https://nguyenminhtuuuu.github.io)
-
+  [Portfolio] (https://nguyenminhtuuuu.github.io) | [GitHub](https://github.com/nguyenminhtuuuu) | [tunm081205@gmail.com](mailto:tunm081205@gmail.com) | Ho Chi Minh City
 
 
 ##  Technical Skills
