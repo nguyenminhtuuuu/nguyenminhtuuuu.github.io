@@ -1,7 +1,7 @@
 # NGUYEN MINH TU
 **Data Analyst**
 
-📍 *Ho Chi Minh City* | ✉️ [tunm081205@gmail.com](mailto:tunm081205@gmail.com) |  [GitHub](https://github.com/nguyenminhtuuuu)
+ *Ho Chi Minh City* | [tunm081205@gmail.com](mailto:tunm081205@gmail.com) |  [GitHub](https://github.com/nguyenminhtuuuu)
 
 ---
 
