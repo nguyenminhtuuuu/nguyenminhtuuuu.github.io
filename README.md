@@ -4,7 +4,7 @@
 
 SQL · Python · EDA · ETL · Data Visualization
 
-[GitHub](https://github.com/nguyenminhtuuuu) · [Email](mailto:tunm081205@gmail.com)
+[GitHub](https://github.com/nguyenminhtuuuu/nguyenminhtuuuu.github.io) 
 
 ---
 
@@ -20,6 +20,5 @@ SQL · Python · EDA · ETL · Data Visualization
 
 ## Contact
 
-[Email](mailto:tunm081205@gmail.com) · [GitHub](https://github.com/nguyenminhtuuuu)
-
+[Email](mailto:tunm081205@gmail.com)
 Ho Chi Minh City
