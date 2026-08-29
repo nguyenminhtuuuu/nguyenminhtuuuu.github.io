@@ -1,4 +1,4 @@
-[GitHub](https://github.com/nguyenminhtuuuu) - tunm081205@gmail.com
+<img width="484" height="772" alt="image" src="https://github.com/user-attachments/assets/39cdad31-14a2-4494-b5a8-79d2d9c16691" />[GitHub](https://github.com/nguyenminhtuuuu) - tunm081205@gmail.com
 
 ### Technical Skills
 
@@ -8,8 +8,8 @@
 
 ### Projects for sharing
 
-[![Disease Prediction System](https://github-readme-stats.vercel.app/api/pin/?username=nguyenminhtuuuu&repo=disease-prediction-system&theme=default&show_owner=false)](https://github.com/nguyenminhtuuuu/disease-prediction-system)
+(https://github.com/nguyenminhtuuuu/disease-prediction-system)
 
-[![Tiki Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nguyenminhtuuuu&repo=tiki-customer-sentiment-analysis&theme=default&show_owner=false)](https://github.com/nguyenminhtuuuu/tiki-customer-sentiment-analysis)
+(https://github.com/nguyenminhtuuuu/tiki-customer-sentiment-analysis)
 
-[![Equipment Warranty Management](https://github-readme-stats.vercel.app/api/pin/?username=nguyenminhtuuuu&repo=equipment-warranty-management-showcase&theme=default&show_owner=false)](https://github.com/nguyenminhtuuuu/equipment-warranty-management-showcase)
+(https://github.com/nguyenminhtuuuu/equipment-warranty-management-showcase)
