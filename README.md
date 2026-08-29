@@ -1,35 +1,17 @@
-### Data Analyst
+# Data Analyst
 
-SQL · Python · EDA · ETL · Data Visualization
+[GitHub](https://github.com/nguyenminhtuuuu) - tunm081205@gmail.com
 
-[GitHub](nguyenminhtuuuu/nguyenminhtuuuu.github.io) 
----
+### Technical Skills
 
-## Selected Projects
+* **SQL:** MySQL, Microsoft SQL Server
+* **Python:** Pandas, NumPy, Scikit-learn, SQLAlchemy
+* **Data Analysis:** EDA, ETL Pipeline, Data Visualization
 
-###  Disease Prediction System
-**Python · Pandas · Scikit-learn · SHAP**
+### Projects for sharing
 
-[View Project →](https://github.com/nguyenminhtuuuu/disease-prediction-system)
+[![Disease Prediction System](https://github-readme-stats.vercel.app/api/pin/?username=nguyenminhtuuuu&repo=disease-prediction-system&theme=default&show_owner=false)](https://github.com/nguyenminhtuuuu/disease-prediction-system)
 
----
+[![Tiki Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nguyenminhtuuuu&repo=tiki-customer-sentiment-analysis&theme=default&show_owner=false)](https://github.com/nguyenminhtuuuu/tiki-customer-sentiment-analysis)
 
-###  Tiki Customer Sentiment Analysis
-**Python · NLP · EDA**
-
-[View Project →](https://github.com/nguyenminhtuuuu/tiki-customer-sentiment-analysis)
-
----
-
-###  Equipment & Warranty Management System
-**Python · MySQL · SQLAlchemy · Pandas**
-
-[View Project →](https://github.com/nguyenminhtuuuu/equipment-warranty-management-showcase)
-
----
-
-## Contact
-
-[Email](mailto:tunm081205@gmail.com) · [GitHub](https://github.com/nguyenminhtuuuu)
-
-Ho Chi Minh City
+[![Equipment Warranty Management](https://github-readme-stats.vercel.app/api/pin/?username=nguyenminhtuuuu&repo=equipment-warranty-management-showcase&theme=default&show_owner=false)](https://github.com/nguyenminhtuuuu/equipment-warranty-management-showcase)
