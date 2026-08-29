@@ -2,20 +2,15 @@
 **Data Analyst**
 
  *Ho Chi Minh City* | [tunm081205@gmail.com](mailto:tunm081205@gmail.com) |  [GitHub](https://github.com/nguyenminhtuuuu)
+ 
+## [Portfolio] (https://nguyenminhtuuuu.github.io)
 
----
 
-## Portfolio
- **[View my Interactive Portfolio here!](https://nguyenminhtuuuu.github.io)**
-
----
 
 ##  Technical Skills
 * **Programming & DB:** Python (Pandas, Scikit-learn), SQL (MySQL, SQL Server)
 * **Data Processing:** Exploratory Data Analysis (EDA), ETL Pipelines, Data Visualization
 * **Machine Learning:** Classification, NLP (PhoBERT), Handling Imbalanced Data
-
----
 
 ## Projects
 
