@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Nguyen - Data Analyst Portfolio</title>
+    <style>
+        body { margin: 0; padding: 40px 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #fff; }
+        .container { display: flex; max-width: 1000px; margin: 0 auto; gap: 40px; align-items: flex-start; }
+        .left-col { width: 32%; background: linear-gradient(135deg, #f4f7fe 0%, #fdf0f4 100%); padding: 30px; border-radius: 12px; text-align: center; position: sticky; top: 40px; }
+        .right-col { width: 65%; }
+        .profile-img { width: 160px; height: 160px; object-fit: cover; border-radius: 50%; border: 5px solid #fff; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin-bottom: 15px; }
+        .section-title { color: #4b0082; border-bottom: 2px solid #f4f7fe; padding-bottom: 8px; margin-top: 35px; }
+        .project-card { margin-bottom: 25px; }
+        .project-title { color: #e83e8c; text-decoration: none; font-size: 18px; font-weight: bold; }
+        .project-title:hover { text-decoration: underline; }
+        .tech-stack { font-size: 13px; color: #6c757d; margin: 5px 0; }
+        .project-desc { font-size: 14px; color: #444; line-height: 1.6; margin: 0; }
+        ul { color: #444; font-size: 15px; line-height: 1.8; margin-top: 10px; padding-left: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- CỘT TRÁI: PROFILE -->
+    <div class="left-col">
+        <img src="https://github.com/nguyenminhtuuuu.png" alt="Tu Nguyen" class="profile-img">
+        <h2 style="margin: 0; color: #111; font-size: 26px; font-weight: 800;">Tu Nguyen</h2>
+        <h4 style="margin-top: 5px; color: #e83e8c; font-size: 16px;">Data Analyst</h4>
+        
+        <hr style="border: 0; border-top: 1px solid #ddd; margin: 20px 0;">
+        
+        <h4 style="margin: 0 0 10px 0; color: #4b0082; text-align: left;">About Me</h4>
+        <p style="font-size: 14px; color: #6c757d; text-align: left; line-height: 1.6; margin-top: 0;">
+            Passionate about data analytics and problem-solving. Experienced in building machine learning models, ETL pipelines, and web applications using Python, SQL, and modern frameworks to drive business decisions.
+        </p>
+    </div>
+
+    <!-- CỘT PHẢI: NỘI DUNG -->
+    <div class="right-col">
+        
+        <h3 class="section-title" style="margin-top: 0;">Skills</h3>
+        <ul>
+            <li><b>Programming & DB:</b> Python (Pandas, Scikit-learn), SQL (MySQL, SQL Server)</li>
+            <li><b>Data Processing:</b> Exploratory Data Analysis (EDA), ETL Pipelines, Data Visualization</li>
+            <li><b>Machine Learning:</b> Classification, NLP (PhoBERT), Handling Imbalanced Data</li>
+        </ul>
+
+        <h3 class="section-title">Projects</h3>
+        
+        <div class="project-card">
+            <a href="https://github.com/nguyenminhtuuuu/disease-prediction-system" class="project-title">Disease Prediction System</a>
+            <p class="tech-stack"><b>Python · Pandas · Scikit-learn · SMOTE</b></p>
+            <p class="project-desc">Disease prediction based on blood test indicators, focusing on data quality, class imbalance handling, and predictive modeling.</p>
+        </div>
+
+        <div class="project-card">
+            <a href="https://github.com/nguyenminhtuuuu/tiki-customer-sentiment-analysis" class="project-title">Tiki Customer Sentiment Analysis</a>
+            <p class="tech-stack"><b>Python · NLP · TF-IDF · PhoBERT</b></p>
+            <p class="project-desc">Customer sentiment analysis on Tiki reviews using NLP and EDA to evaluate delivery experience and product quality.</p>
+        </div>
+
+        <div class="project-card">
+            <a href="https://github.com/nguyenminhtuuuu/equipment-warranty-management-showcase" class="project-title">Equipment Management System</a>
+            <p class="tech-stack"><b>Python · MySQL · SQLAlchemy · Flask</b></p>
+            <p class="project-desc">ETL pipeline and business analysis dashboard for equipment failure, revenue, warranty, and maintenance data.</p>
+        </div>
+
+        <h3 class="section-title">Contact</h3>
+        <p style="font-size: 15px; margin-top: 15px;">
+            <a href="mailto:tunm081205@gmail.com" style="color: #0366d6; text-decoration: none; font-weight: 600;">tunm081205@gmail.com</a> 
+        
+        </p>
+
+    </div>
+</div>
+
+</body>
+</html>
