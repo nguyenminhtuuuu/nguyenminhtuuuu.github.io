@@ -1,5 +1,3 @@
-# Data Analyst
-
 [GitHub](https://github.com/nguyenminhtuuuu) - tunm081205@gmail.com
 
 ### Technical Skills
